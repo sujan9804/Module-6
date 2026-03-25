@@ -34,8 +34,8 @@ To write a Python program to define the abstract base class named `Polygon` and 
 ### PROGRAM
 
 ```python
-#Reg no-212222060252
-#Name- SREE DHARMA A V
+#Reg no-212222060262
+#Name- SUJAN S B
 
 from abc import ABC  
   
